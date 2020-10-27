@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Переключения</string>
+    <string name="text_translation">Мобильное приложение выходит на международный рынок,
+        ему нужна локализация под разные языки</string>
+    <string name="setting_button">Сменить настройки</string>
+    <string-array name="languageSpinner">
+        <item>Английский</item>
+        <item>Русский</item>
+    </string-array>
+    <string-array name="themeSpinner">
+        <item>Крупная тема</item>
+        <item>Средняя тема</item>
+        <item>Мелкая тема</item>
+    </string-array>
+</resources>
